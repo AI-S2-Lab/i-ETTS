@@ -6,7 +6,7 @@ Authors: Rui Liu, Berrak Sisman and Haizhou Li
 This paper was accepted by InterSpeech2021. 
 
 
-*Note: To our best knowledge, this is the first study of reinforcement learning in emotional text-to-speech synthesis.*
+*Note: **To our best knowledge, this is the first study of reinforcement learning in emotional text-to-speech synthesis.** * 
 
 
 ## Speech samples
